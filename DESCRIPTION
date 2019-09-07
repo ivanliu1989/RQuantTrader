@@ -1,0 +1,25 @@
+Package: RQuantTrader
+Type: Package
+Title: A collection of functions for pair trading
+Version: 0.1.0
+Author: Ivan Liu
+Maintainer: Ivan Liu <ivan.liuyanfeng@gmail.com>
+Description: A collection of functions for pair trading
+License: What license is it under?
+LazyData: TRUE
+RoxygenNote: 6.0.1
+Imports: quantmod,
+    TTR,
+    data.table,
+    PearsonDS,
+    PerformanceAnalytics,
+    fUnitRoots,
+    FGN,
+    urca,
+    ggplot2,
+    mailR,
+    tseries
+Suggests: knitr,
+    rmarkdown,
+    fBasics
+VignetteBuilder: knitr

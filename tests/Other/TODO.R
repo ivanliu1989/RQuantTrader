@@ -1,0 +1,15 @@
+BackTesting.R
+BackTestingRealTime.R
+databaseConnection.R
+getUserTemplate.R
+InitializeContext.R
+InteractiveBrokers.R
+MachineLearningSimulation.R
+PerformanceAnalytics.R
+PerformanceEvaluationEmail.R
+QuantstratXXX.R
+TradingStrategyFunctions.R
+WalkForwardTesting.R
+
+
+CalculateHedgeRatio.R
